@@ -1,13 +1,9 @@
 import { Link } from "react-router-dom";
-import {Helmet}from 'react-helmet';
+//import {Helmet}from 'react-helmet';
 import "./about.css";
 const About = () => {
   return (
     <>
-    <Helmet>
-      <title>About</title>
-      <link rel="icon"type="image/png"href="../src/assets/logo.png"/>
-    </Helmet>
       <div className="about-conference">
         <div className="about-conference-header capitalize font-bold">
           <h1>about the conference</h1>
