@@ -1,0 +1,11 @@
+.organizers-image{
+    width: 30%;
+    height: 170px;
+    background-position:center;
+    background-repeat: no-repeat;
+    /*object-fit: cover;*/
+    border-radius: 10px;
+}
+.organizer-bio{
+    margin-top: 50px;
+}

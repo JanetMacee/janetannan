@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Emily chen",
+        "title":"conference chair",
+        "image":"../src/assets/men clothes.jpg",
+        "bio":"Emily chen is a seasoned event organizer with over 10 years of experience.She worked on numerous conferences and events,includinng several high-profile tech conferences.Emily is dedicated to creating engaging and informative events that bring people together and foster meaningful connections."
+    },
+    {
+        "name":"David Lee",
+        "title":"Program director",
+        "image":"../src/assets/men clothes.jpg",
+        "bio":"David Lee is a highly experienced program director with over 15 years of experience.He ahs worked on numerous conferences and events,including several high-profile tech conferences.David is passonate about creating innovative and engaging programs that showcase the latest trends and developments in the industry."
+    }
+]

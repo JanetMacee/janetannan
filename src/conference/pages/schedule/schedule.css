@@ -1,0 +1,24 @@
+.schedule{
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.schedule-table{
+    overflow-x: auto;
+}
+.schedule-table table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.schedule-table th,
+.schedule-table td{
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+.schedule-table th{
+    background-color: #f0f0f0;
+}

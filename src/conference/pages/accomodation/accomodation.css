@@ -1,0 +1,32 @@
+.accomodation{
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.accomodation-options{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.accomodation-option{
+    margin: 20px;
+    width: calc(33.3% -20px);
+    text-align: center;
+}
+.accomodation-option h2{
+    margin-top: 0;
+}
+.accomodation-option button{
+    background-color: #4CAF50 ;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.accomodation-option button:hover{
+    background-color: #3e8e41;
+}

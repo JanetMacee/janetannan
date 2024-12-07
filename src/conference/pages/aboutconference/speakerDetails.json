@@ -1,0 +1,15 @@
+
+[{
+    "name":"Macee khalid",
+    "title":"keynote Speaker",
+    "image":"../src/assets/men clothes.jpg",
+    "bio": "Macee Khalid is a renowned expert in the field of technology and innovation.With over 20 years of experience,He has worked with top companies and organizations to drive growth and success.Macee is highly sought-after speaker and has given talks at conferences and events around the world.He is also the author of several bestselling books on technology and innovation."
+    
+},
+{
+    "name":"John Smith",
+    "title":"Industry Expert",
+    "image":"../src/assets/men clothes.jpg",
+    "bio":"John Smith is a leading expert in the field of artificial intelligence and machine learning.With over 15 years of experience,he has worked with top companies and organization to develop and implement AI and ML solutions.John is a highly respected speaker and has given talks in many conferences and events around the world.He is also the author of several researched papers on AI and ML"
+}
+]
